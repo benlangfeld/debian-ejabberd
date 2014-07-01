@@ -1,3 +1,10 @@
+ejabberd (2.1.13-1) unstable; urgency=low
+
+  [ Ben Langfeld ]
+  * New upstream release.
+
+ -- Ben Langfeld <ben@langfeld.me>  Tue, 1 Jul 2014 15:44:32 -0300
+
 ejabberd (2.1.11-1) unstable; urgency=low
 
   [ Konstantin Khomoutov ]
