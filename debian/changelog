@@ -2,6 +2,11 @@ ejabberd (2.1.13-1) unstable; urgency=low
 
   [ Ben Langfeld ]
   * New upstream release.
+  * New upstream release made these patches obsolete:
+    disable-insecure-ssl-cyphers.patch, disable-ssl2.patch,
+    fix-ldap-vcard-jpeg-photos.patch,
+    scram-optional-parameter-parsing-bugfix.patch
+
 
  -- Ben Langfeld <ben@langfeld.me>  Tue, 1 Jul 2014 15:44:32 -0300
 
