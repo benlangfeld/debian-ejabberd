@@ -1,3 +1,9 @@
+ejabberd (2.1.13-1) experimental; urgency=low
+
+  This release fixes miscellaneous bugs. See the upstream release notes for details.
+
+ -- Ben Langfeld <ben@langfeld.me>  Tue, 1 Jul 2014 15:52:23 -0300
+
 ejabberd (2.1.11-1) unstable; urgency=low
 
   This release adds support for the SCRAM-SHA-1 authentication mecnahism.
